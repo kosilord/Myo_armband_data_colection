@@ -9,4 +9,4 @@ It is not a new pprogram just some added lines to controll file saving
 
 The results are stored in csv files
 
-Full guide how program works are included in Emg_data_colector.pdf fille
+Full guide how program works are included in Emg_data_colector.pdf file
