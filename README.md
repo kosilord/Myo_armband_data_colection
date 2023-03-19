@@ -1,1 +1,0 @@
-# Myo_armband_data_colection
