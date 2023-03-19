@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (emg-data-sample-VisualStudio2013.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  emg-data-sample.cpp
+C:\Users\kosil\Desktop\myo-sdk-win-0.9.0\include\myo\cxx\detail\ThrowOnError.hpp(39,17): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+C:\Users\kosil\Desktop\myo-sdk-win-0.9.0\include\myo\cxx\detail\ThrowOnError.hpp(39,17): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+C:\Users\kosil\Desktop\myo-sdk-win-0.9.0\include\myo\cxx\detail\ThrowOnError.hpp(45,17): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+C:\Users\kosil\Desktop\myo-sdk-win-0.9.0\include\myo\cxx\detail\ThrowOnError.hpp(45,17): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+C:\Users\kosil\Desktop\myo-sdk-win-0.9.0\samples\matplotlibcpp.h(1817,57): warning C4244: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\kosil\Desktop\myo-sdk-win-0.9.0\samples\matplotlibcpp.h(2884,38): message : see reference to function template instantiation 'bool matplotlibcpp::plot<double>(const std::vector<double,std::allocator<double>> &,const std::string &)' being compiled
+  emg-data-sample-VisualStudio2012.vcxproj -> C:\Users\kosil\Desktop\myo-sdk-win-0.9.0\samples\x64\Debug\emg-data-sample.exe
+  Copy required dlls to output directory
+  System nie może odnaleźć określonej ścieżki.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(159,5): error MSB3073: The command "COPY "..\bin\myo64.dll" "C:\Users\kosil\Desktop\myo-sdk-win-0.9.0\samples\x64\Debug\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(159,5): error MSB3073:       
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(159,5): error MSB3073: :VCEnd" exited with code 1.
