@@ -1,7 +1,7 @@
 # Myo_armband_data_colection
 Hello !
 
-This program is writen to help you collect emg data form myo arm_band
+This program is written to help you collect emg data form myo arm_band
 
 This is written on base of myo-sdk-win-0.9.0/samples files provided from myo labs
 
